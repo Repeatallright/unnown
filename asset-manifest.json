@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Repeatallright/Repeatallright.github.io/static/css/main.2349ebd4.css",
-    "main.js": "/Repeatallright/Repeatallright.github.io/static/js/main.ce2dfbde.js",
-    "static/js/787.b701888c.chunk.js": "/Repeatallright/Repeatallright.github.io/static/js/787.b701888c.chunk.js",
-    "static/media/girl.png": "/Repeatallright/Repeatallright.github.io/static/media/girl.aa62707ef696e026b40b.png",
-    "index.html": "/Repeatallright/Repeatallright.github.io/index.html",
-    "static/media/changeHide": "/Repeatallright/Repeatallright.github.io/static/media/changeHide.31d6cfe0d16ae931b73c",
-    "main.2349ebd4.css.map": "/Repeatallright/Repeatallright.github.io/static/css/main.2349ebd4.css.map",
-    "main.ce2dfbde.js.map": "/Repeatallright/Repeatallright.github.io/static/js/main.ce2dfbde.js.map",
-    "787.b701888c.chunk.js.map": "/Repeatallright/Repeatallright.github.io/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/static/css/main.2349ebd4.css",
+    "main.js": "/static/js/main.ace8741e.js",
+    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "static/media/girl.png": "/static/media/girl.aa62707ef696e026b40b.png",
+    "index.html": "/index.html",
+    "static/media/changeHide": "/static/media/changeHide.31d6cfe0d16ae931b73c",
+    "main.2349ebd4.css.map": "/static/css/main.2349ebd4.css.map",
+    "main.ace8741e.js.map": "/static/js/main.ace8741e.js.map",
+    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2349ebd4.css",
-    "static/js/main.ce2dfbde.js"
+    "static/js/main.ace8741e.js"
   ]
 }
