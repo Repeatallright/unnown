@@ -1,0 +1,22 @@
+usersDate : [
+userId:{
+    email: userEmail,
+    password: userPasseord,
+    name: userName,
+    id: userid,
+    friends: [friendsID...]
+    message : {userID : [messageDate , friendMessage]...}
+}...
+]
+
+
+postsDate : [
+    [postDate, {
+        imgUrl: 'imgs",
+        postName: postName,
+        postDate: postDate,
+        postContent: postContent,
+        id: userId,
+        postID: postID;
+    }]...
+]
